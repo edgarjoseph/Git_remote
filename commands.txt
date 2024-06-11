@@ -35,3 +35,9 @@
 
 * git commit -m "message"
         - saves the changes that you've made on the files in the staging area to the repository. The "message" describes what changes were made in this commit.
+
+* git log
+        - shows the list of all commits.
+
+* git log --oneline
+        - shows the list of all commits. condensed form of git log
